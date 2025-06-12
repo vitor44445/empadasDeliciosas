@@ -1,0 +1,46 @@
+body {
+margin: 0;
+    background-color: #f4f4f4;
+}
+.header {
+    background-color: #dab84a;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+.navbar {
+    background-color: #dab84a;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+    font-size: 1.1em;
+}
+.navbar a:hover {
+    text-decoration: underline;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff8e1; 
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; 
+}
+.welcome-section h2 {
+    color: #dab84a;
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+.welcome-section p {
+    color: #555;
+    line-height: 1.6;
+    font-size: 1.1em;
+}
